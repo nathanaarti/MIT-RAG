@@ -396,6 +396,3 @@ retrieval quality:
 On the routed question mix, 50 of 83 questions are the curated FAQ's own questions, so its
 pass rate is not quality evidence. "Final without FAQ" is the fair quality comparison.
 
-Run-to-run variance and the full analysis are in the completed worksheet
-(`Required_Capstone_Checkpoint_7_1_Worksheet_COMPLETED.docx`; Markdown copy in
-`Checkpoint_7_1_Worksheet.md`).
